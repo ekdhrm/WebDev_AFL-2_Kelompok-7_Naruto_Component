@@ -8,14 +8,14 @@
 
         <div class="team-member">
             <ul>
-            <li>Nama: John Doe</li>
+            <li>Nama: Andra Ilham Triadi Mijaya</li>
             <li>Peran: Penulis Konten dan Front-End</li>
-            <li>Email: john.doe@example.com</li>
+            <li>NIM : 2086022510016
         </ul>
         <ul>
-            <li>Nama: Jane Smith</li>
-            <li>Peran: lorem</li>
-            <li>Email: jane.smith@example.com</li>
+            <li>Nama: Mario Ekadharma P. Ladjo</li>
+            <li>Peran: Full Stack Developer</li>
+            <li>NIM : 2086022510017</li>
         </ul>
         </div>
     </div>
